@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/nissimuseri/demo-app
-  newTag: 9b90763444350f7a9e55223abd13e4f4abe1211cd58e8e13c6f61c3a08cb975f
+  newTag: 54b05aaabc4d0c98200bdf4dd508e4ce9897c9bd
